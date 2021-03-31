@@ -16,10 +16,10 @@ import os
 BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 
-SECRET_KEY = '*oxd*af%6_vwm95rx^@)i3=$5dzv2a-s*ntc5oh#cje_sa92mz'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
 # Quick-start development settings - unsuitable for production
